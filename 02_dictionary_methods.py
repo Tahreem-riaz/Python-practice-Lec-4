@@ -168,3 +168,6 @@ print("Mouse Quantity:", shopping_cart.get("Mouse"))
 
 shopping_cart.update({"Mouse": 3})
 shopping_cart.update({"Headphones": 1})
+
+print("Item Names:", shopping_cart.keys())
+print("Updated Cart:", shopping_cart)
