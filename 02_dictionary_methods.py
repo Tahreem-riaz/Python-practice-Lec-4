@@ -96,3 +96,7 @@ product = {
 print("Before update:", product)
 
 product.update({"price": 75000})
+
+print("After update:", product)
+
+# ------------------------------------------
