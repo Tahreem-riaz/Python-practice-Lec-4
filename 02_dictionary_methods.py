@@ -16,3 +16,10 @@ Total Questions: 10
 #     about a laptop.
 #
 #     Use keys() to display all the keys.
+
+laptop = {
+    "brand": "HP",
+    "model": "EliteBook",
+    "RAM": "8GB",
+    "storage": "256GB"
+}
