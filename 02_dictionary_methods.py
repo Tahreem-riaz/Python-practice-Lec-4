@@ -66,3 +66,10 @@ print("Products and Prices:", products.items())
 #     information.
 #
 #     Use get() to access an existing value.
+
+student = {
+    "name": "Ali",
+    "age": 19,
+    "semester": 3,
+    "department": "Artificial Intelligence"
+}
