@@ -44,3 +44,8 @@ countries = {
 print("Capitals:", countries.values())
 
 # ------------------------------------------
+
+# Q3. Create a dictionary containing three
+#     products and their prices.
+#
+#     Use items() to display each key-value pair.
