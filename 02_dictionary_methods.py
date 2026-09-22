@@ -27,3 +27,8 @@ laptop = {
 print("Laptop Keys:", laptop.keys())
 
 # ------------------------------------------
+
+# Q2. Create a dictionary containing five
+#     countries and their capitals.
+#
+#     Use values() to display all capitals.
