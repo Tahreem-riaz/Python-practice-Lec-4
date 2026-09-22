@@ -32,3 +32,11 @@ print("Laptop Keys:", laptop.keys())
 #     countries and their capitals.
 #
 #     Use values() to display all capitals.
+
+countries = {
+    "Pakistan": "Islamabad",
+    "France": "Paris",
+    "Japan": "Tokyo",
+    "Germany": "Berlin",
+    "Italy": "Rome"
+}
