@@ -126,3 +126,14 @@ print("Updated Employees:", employees)
 # ==========================================
 # PART D: COMBINED PRACTICE
 # ==========================================
+
+# Q8. Create a dictionary containing information
+#     about a course:
+#
+#     - course name
+#     - instructor
+#     - credits
+#     - semester
+#
+#     Use keys(), values(), and items() to display
+#     the information.
