@@ -163,3 +163,5 @@ shopping_cart = {
     "Mouse": 2,
     "Keyboard": 1
 }
+
+print("Mouse Quantity:", shopping_cart.get("Mouse"))
