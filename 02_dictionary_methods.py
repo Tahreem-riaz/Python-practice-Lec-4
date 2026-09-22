@@ -49,3 +49,9 @@ print("Capitals:", countries.values())
 #     products and their prices.
 #
 #     Use items() to display each key-value pair.
+
+products = {
+    "Laptop": 80000,
+    "Mouse": 2000,
+    "Keyboard": 4000
+}
