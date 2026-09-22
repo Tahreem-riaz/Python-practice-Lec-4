@@ -55,3 +55,5 @@ products = {
     "Mouse": 2000,
     "Keyboard": 4000
 }
+
+print("Products and Prices:", products.items())
