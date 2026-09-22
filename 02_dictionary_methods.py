@@ -195,3 +195,7 @@ user_profile = {
     "city": "Lahore",
     "email": "ali@gmail.com"
 }
+
+print("Keys:", user_profile.keys())
+print("Values:", user_profile.values())
+print("Items:", user_profile.items())
