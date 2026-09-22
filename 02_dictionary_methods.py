@@ -157,3 +157,9 @@ print("Course Items:", course.items())
 #     - get() to access an item
 #     - update() to change/add information
 #     - keys() to display item names
+
+shopping_cart = {
+    "Laptop": 1,
+    "Mouse": 2,
+    "Keyboard": 1
+}
