@@ -171,3 +171,8 @@ shopping_cart.update({"Headphones": 1})
 
 print("Item Names:", shopping_cart.keys())
 print("Updated Cart:", shopping_cart)
+
+
+# ==========================================
+# PART E: CHALLENGE
+# ==========================================
