@@ -150,3 +150,10 @@ print("Course Values:", course.values())
 print("Course Items:", course.items())
 
 # ------------------------------------------
+
+# Q9. Create a dictionary for a shopping cart.
+#
+#     Use:
+#     - get() to access an item
+#     - update() to change/add information
+#     - keys() to display item names
