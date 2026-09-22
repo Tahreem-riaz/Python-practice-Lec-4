@@ -202,3 +202,5 @@ print("Items:", user_profile.items())
 
 print("User Name:", user_profile.get("name"))
 user_profile.update({"city": "Islamabad"})
+
+print("Final Dictionary:", user_profile)
