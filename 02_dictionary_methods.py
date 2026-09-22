@@ -86,3 +86,9 @@ print("Student Name:", student.get("name"))
 #     information.
 #
 #     Use update() to change the price.
+
+product = {
+    "name": "Laptop",
+    "price": 80000,
+    "category": "Electronics"
+}
