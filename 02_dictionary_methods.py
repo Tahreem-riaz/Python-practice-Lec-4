@@ -100,3 +100,9 @@ product.update({"price": 75000})
 print("After update:", product)
 
 # ------------------------------------------
+
+# Q7. Create a dictionary containing two
+#     employee records.
+#
+#     Use update() to add another key-value pair
+#     to one employee.
