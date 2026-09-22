@@ -61,3 +61,8 @@ print("Products and Prices:", products.items())
 # ==========================================
 # PART B: GET METHOD
 # ==========================================
+
+# Q4. Create a dictionary containing student
+#     information.
+#
+#     Use get() to access an existing value.
