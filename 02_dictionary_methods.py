@@ -92,3 +92,5 @@ product = {
     "price": 80000,
     "category": "Electronics"
 }
+
+print("Before update:", product)
