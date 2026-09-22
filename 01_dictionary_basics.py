@@ -258,4 +258,3 @@ print("CS Students:", university["Computer Science"]["students"])
 # ==========================================
 # END OF PRACTICE
 # ==========================================
-# nothing to commit
