@@ -165,3 +165,6 @@ shopping_cart = {
 }
 
 print("Mouse Quantity:", shopping_cart.get("Mouse"))
+
+shopping_cart.update({"Mouse": 3})
+shopping_cart.update({"Headphones": 1})
