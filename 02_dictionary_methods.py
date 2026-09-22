@@ -122,3 +122,7 @@ employees = {
 employees["employee1"].update({"salary": 60000})
 
 print("Updated Employees:", employees)
+
+# ==========================================
+# PART D: COMBINED PRACTICE
+# ==========================================
