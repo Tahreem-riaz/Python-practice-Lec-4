@@ -23,3 +23,7 @@ laptop = {
     "RAM": "8GB",
     "storage": "256GB"
 }
+
+print("Laptop Keys:", laptop.keys())
+
+# ------------------------------------------
