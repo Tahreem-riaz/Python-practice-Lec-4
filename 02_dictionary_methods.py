@@ -81,3 +81,8 @@ print("Student Name:", student.get("name"))
 # ==========================================
 # PART C: UPDATE METHOD
 # ==========================================
+
+# Q6. Create a dictionary containing product
+#     information.
+#
+#     Use update() to change the price.
