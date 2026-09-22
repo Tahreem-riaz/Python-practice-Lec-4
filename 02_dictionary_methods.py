@@ -57,3 +57,7 @@ products = {
 }
 
 print("Products and Prices:", products.items())
+
+# ==========================================
+# PART B: GET METHOD
+# ==========================================
