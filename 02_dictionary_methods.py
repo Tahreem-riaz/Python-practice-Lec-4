@@ -11,3 +11,8 @@ Total Questions: 10
 # ==========================================
 # PART A: KEYS, VALUES & ITEMS
 # ==========================================
+
+# Q1. Create a dictionary containing information
+#     about a laptop.
+#
+#     Use keys() to display all the keys.
