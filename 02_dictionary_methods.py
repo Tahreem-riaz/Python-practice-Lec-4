@@ -137,3 +137,10 @@ print("Updated Employees:", employees)
 #
 #     Use keys(), values(), and items() to display
 #     the information.
+
+course = {
+    "course_name": "Python Programming",
+    "instructor": "Mr. Ahmed",
+    "credits": 3,
+    "semester": "Fall"
+}
