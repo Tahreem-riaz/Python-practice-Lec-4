@@ -40,3 +40,7 @@ countries = {
     "Germany": "Berlin",
     "Italy": "Rome"
 }
+
+print("Capitals:", countries.values())
+
+# ------------------------------------------
