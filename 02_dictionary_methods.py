@@ -176,3 +176,15 @@ print("Updated Cart:", shopping_cart)
 # ==========================================
 # PART E: CHALLENGE
 # ==========================================
+
+# Q10. Create a dictionary representing a user
+#      profile.
+#
+#      Perform the following:
+#      - Display all keys
+#      - Display all values
+#      - Display all key-value pairs
+#      - Safely access one value using get()
+#      - Update one piece of information
+#
+#      Print the final dictionary.
