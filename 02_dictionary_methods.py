@@ -118,3 +118,5 @@ employees = {
         "department": "HR"
     }
 }
+
+employees["employee1"].update({"salary": 60000})
