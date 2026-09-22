@@ -106,3 +106,15 @@ print("After update:", product)
 #
 #     Use update() to add another key-value pair
 #     to one employee.
+
+employees = {
+    "employee1": {
+        "name": "Ali",
+        "department": "IT"
+    },
+
+    "employee2": {
+        "name": "Sara",
+        "department": "HR"
+    }
+}
