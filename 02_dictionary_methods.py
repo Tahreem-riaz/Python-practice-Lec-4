@@ -188,3 +188,10 @@ print("Updated Cart:", shopping_cart)
 #      - Update one piece of information
 #
 #      Print the final dictionary.
+
+user_profile = {
+    "name": "Ali",
+    "age": 19,
+    "city": "Lahore",
+    "email": "ali@gmail.com"
+}
