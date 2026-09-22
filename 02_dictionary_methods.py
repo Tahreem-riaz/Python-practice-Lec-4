@@ -144,3 +144,9 @@ course = {
     "credits": 3,
     "semester": "Fall"
 }
+
+print("Course Keys:", course.keys())
+print("Course Values:", course.values())
+print("Course Items:", course.items())
+
+# ------------------------------------------
