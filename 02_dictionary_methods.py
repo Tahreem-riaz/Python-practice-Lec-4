@@ -73,3 +73,7 @@ student = {
     "semester": 3,
     "department": "Artificial Intelligence"
 }
+
+print("Student Name:", student.get("name"))
+
+# ------------------------------------------
