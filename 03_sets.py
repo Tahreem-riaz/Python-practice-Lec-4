@@ -170,3 +170,5 @@ cities = {
     "Multan",
     "Karachi"
 }
+
+print("Unique Cities:", cities)
