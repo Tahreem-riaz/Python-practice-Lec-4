@@ -172,3 +172,10 @@ cities = {
 }
 
 print("Unique Cities:", cities)
+
+# Observation:
+# A set is useful because it stores only unique
+# city names and removes duplicates automatically.
+
+# ------------------------------------------
+
