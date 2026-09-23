@@ -100,3 +100,5 @@ fruits = {
     "Orange",
     "Grapes"
 }
+
+print("Before adding:", fruits)
