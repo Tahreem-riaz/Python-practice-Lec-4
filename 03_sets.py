@@ -107,3 +107,7 @@ fruits.add("Watermelon")
 fruits.add("Apple")
 
 print("After adding:", fruits)
+
+# Observation:
+# Watermelon is added because it is new.
+# Apple is not added again because it already exists.
