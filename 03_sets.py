@@ -138,3 +138,6 @@ print("Type:", type(empty_set))
 
 empty_dictionary = {}
 empty_set = set()
+
+print("Empty Dictionary Type:", type(empty_dictionary))
+print("Empty Set Type:", type(empty_set))
