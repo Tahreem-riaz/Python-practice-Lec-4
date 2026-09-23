@@ -147,3 +147,6 @@ print("Empty Set Type:", type(empty_set))
 # set() creates an empty set.
 # Therefore, we use set() when we need an empty set.
 
+# ==========================================
+# PART D: PRACTICAL SETS
+# ==========================================
