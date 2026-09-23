@@ -29,3 +29,11 @@ print("Programming Languages:", languages)
 print("Type:", type(languages))
 
 # ------------------------------------------
+
+# Q2. A system stores the skills of a student.
+#     Some skills are entered more than once.
+#
+#     Create a set containing repeated skills.
+#
+#     Print the set and write an observation
+#     about duplicate values.
