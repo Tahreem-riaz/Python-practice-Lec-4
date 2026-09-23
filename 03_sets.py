@@ -37,3 +37,12 @@ print("Type:", type(languages))
 #
 #     Print the set and write an observation
 #     about duplicate values.
+
+skills = {
+    "Python",
+    "C++",
+    "Python",
+    "HTML",
+    "C++",
+    "Python"
+}
