@@ -26,3 +26,4 @@ languages = {
 }
 
 print("Programming Languages:", languages)
+print("Type:", type(languages))
