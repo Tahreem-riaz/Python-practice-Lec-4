@@ -127,11 +127,3 @@ print("Type:", type(empty_set))
 
 # ------------------------------------------
 
-# Q6. Create an empty dictionary and an empty
-#     set.
-#
-#     Print the type of both.
-#
-#     Write a comment explaining how you can
-#     distinguish an empty set from an empty
-#     dictionary.
