@@ -12,3 +12,7 @@ Total Questions: 8
 # PART A: CREATING SETS
 # ==========================================
 
+# Q1. Create a set containing five programming
+#     languages.
+#
+#     Print the set and its type.
