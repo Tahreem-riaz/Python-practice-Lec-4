@@ -24,3 +24,5 @@ languages = {
     "JavaScript",
     "C#"
 }
+
+print("Programming Languages:", languages)
