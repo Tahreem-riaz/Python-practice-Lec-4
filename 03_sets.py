@@ -111,3 +111,7 @@ print("After adding:", fruits)
 # Observation:
 # Watermelon is added because it is new.
 # Apple is not added again because it already exists.
+
+# ==========================================
+# PART C: EMPTY SETS
+# ==========================================
