@@ -16,3 +16,11 @@ Total Questions: 8
 #     languages.
 #
 #     Print the set and its type.
+
+languages = {
+    "Python",
+    "C++",
+    "Java",
+    "JavaScript",
+    "C#"
+}
