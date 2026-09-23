@@ -135,3 +135,6 @@ print("Type:", type(empty_set))
 #     Write a comment explaining how you can
 #     distinguish an empty set from an empty
 #     dictionary.
+
+empty_dictionary = {}
+empty_set = set()
