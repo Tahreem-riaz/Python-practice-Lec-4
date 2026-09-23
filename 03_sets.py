@@ -48,3 +48,8 @@ skills = {
 }
 
 print("Student Skills:", skills)
+
+# Observation:
+# Sets automatically remove duplicate values.
+# Each value appears only once.
+
