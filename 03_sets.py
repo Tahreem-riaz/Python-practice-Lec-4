@@ -161,3 +161,12 @@ print("Empty Set Type:", type(empty_set))
 #
 #     Write a comment explaining why a set is
 #     useful in this situation.
+
+cities = {
+    "Lahore",
+    "Karachi",
+    "Islamabad",
+    "Lahore",
+    "Multan",
+    "Karachi"
+}
