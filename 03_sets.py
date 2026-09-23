@@ -141,3 +141,8 @@ empty_set = set()
 
 print("Empty Dictionary Type:", type(empty_dictionary))
 print("Empty Set Type:", type(empty_set))
+
+# Observation:
+# {} creates an empty dictionary.
+# set() creates an empty set.
+# Therefore, we use set() when we need an empty set.
