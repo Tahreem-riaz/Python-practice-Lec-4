@@ -46,3 +46,5 @@ skills = {
     "C++",
     "Python"
 }
+
+print("Student Skills:", skills)
