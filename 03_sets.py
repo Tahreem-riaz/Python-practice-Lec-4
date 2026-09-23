@@ -121,3 +121,8 @@ print("After adding:", fruits)
 #     Check and print its type.
 
 empty_set = set()
+
+print("Empty Set:", empty_set)
+print("Type:", type(empty_set))
+
+# ------------------------------------------
