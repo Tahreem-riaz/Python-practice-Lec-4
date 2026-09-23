@@ -92,3 +92,11 @@ print("Unique Student IDs:", student_ids)
 #     fruit that already exists.
 #
 #     Print the set before and after.
+
+fruits = {
+    "Apple",
+    "Banana",
+    "Mango",
+    "Orange",
+    "Grapes"
+}
