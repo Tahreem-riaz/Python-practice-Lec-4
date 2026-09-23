@@ -179,3 +179,15 @@ print("Unique Cities:", cities)
 
 # ------------------------------------------
 
+# Q8. A system stores the allowed user roles.
+#
+#     Create a set containing:
+#     - Admin
+#     - Teacher
+#     - Student
+#     - Guest
+#
+#     Try adding "Student" again.
+#
+#     Print the final set and explain why sets
+#     are useful for storing unique values.
