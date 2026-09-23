@@ -56,3 +56,12 @@ print("Student Skills:", skills)
 # ==========================================
 # PART B: SET PROPERTIES
 # ==========================================
+
+# Q3. A university system stores student ID
+#     numbers who attended a workshop.
+#
+#     Some students may have been recorded more
+#     than once.
+#
+#     Create a set containing repeated IDs and
+#     print the final set.
