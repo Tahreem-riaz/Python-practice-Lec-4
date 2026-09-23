@@ -115,3 +115,7 @@ print("After adding:", fruits)
 # ==========================================
 # PART C: EMPTY SETS
 # ==========================================
+
+# Q5. Create an empty set.
+#
+#     Check and print its type.
