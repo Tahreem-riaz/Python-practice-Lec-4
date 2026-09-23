@@ -150,3 +150,14 @@ print("Empty Set Type:", type(empty_set))
 # ==========================================
 # PART D: PRACTICAL SETS
 # ==========================================
+
+# Q7. A university wants to know which cities
+#     students come from.
+#
+#     Create a set containing city names with
+#     some duplicate cities.
+#
+#     Print the final set.
+#
+#     Write a comment explaining why a set is
+#     useful in this situation.
