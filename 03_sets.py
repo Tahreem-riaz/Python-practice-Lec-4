@@ -75,3 +75,5 @@ student_ids = {
     102,
     105
 }
+
+print("Unique Student IDs:", student_ids)
