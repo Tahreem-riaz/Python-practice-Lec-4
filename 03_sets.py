@@ -53,3 +53,6 @@ print("Student Skills:", skills)
 # Sets automatically remove duplicate values.
 # Each value appears only once.
 
+# ==========================================
+# PART B: SET PROPERTIES
+# ==========================================
