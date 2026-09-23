@@ -102,3 +102,6 @@ fruits = {
 }
 
 print("Before adding:", fruits)
+
+fruits.add("Watermelon")
+fruits.add("Apple")
