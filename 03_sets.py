@@ -77,3 +77,8 @@ student_ids = {
 }
 
 print("Unique Student IDs:", student_ids)
+
+# Observation:
+# Duplicate student IDs are automatically removed.
+
+# ------------------------------------------
