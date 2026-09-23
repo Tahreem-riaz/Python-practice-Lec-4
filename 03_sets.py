@@ -65,3 +65,13 @@ print("Student Skills:", skills)
 #
 #     Create a set containing repeated IDs and
 #     print the final set.
+
+student_ids = {
+    101,
+    102,
+    103,
+    101,
+    104,
+    102,
+    105
+}
