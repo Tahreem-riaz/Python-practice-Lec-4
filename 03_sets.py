@@ -82,3 +82,13 @@ print("Unique Student IDs:", student_ids)
 # Duplicate student IDs are automatically removed.
 
 # ------------------------------------------
+
+# Q4. A shopping system stores the fruits
+#     selected by a customer.
+#
+#     Create a set containing five fruits.
+#
+#     Add a new fruit and then try adding a
+#     fruit that already exists.
+#
+#     Print the set before and after.
