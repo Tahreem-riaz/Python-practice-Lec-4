@@ -20,6 +20,7 @@ Total Questions: 10
 #
 #     Print the updated set.
 
+# Create a set containing three project tools
 tools = {
     "VS Code",
     "Git",
