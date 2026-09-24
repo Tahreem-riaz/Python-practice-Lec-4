@@ -54,6 +54,7 @@ permissions = {
 # Add a new permission to the set
 permissions.add("Location")
 
+# Display the updated permissions
 print("App Permissions:", permissions)
 
 # ==========================================
