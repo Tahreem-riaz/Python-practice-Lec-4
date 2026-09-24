@@ -198,3 +198,5 @@ roles = {
     "Student",
     "Guest"
 }
+
+roles.add("Student")
