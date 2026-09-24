@@ -11,3 +11,11 @@ Total Questions: 10
 # ==========================================
 # PART A: ADDING ELEMENTS
 # ==========================================
+
+# Q1. A software project requires several
+#     programming tools.
+#
+#     Create a set containing three tools.
+#     Use add() to add two more tools.
+#
+#     Print the updated set.
