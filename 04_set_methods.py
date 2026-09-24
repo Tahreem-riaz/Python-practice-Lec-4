@@ -77,3 +77,6 @@ applications = {
     "Discord",
     "Zoom"
 }
+
+# remove() removes the specified element
+applications.remove("Spotify")
