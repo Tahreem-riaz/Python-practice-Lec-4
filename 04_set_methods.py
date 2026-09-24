@@ -31,6 +31,7 @@ tools = {
 tools.add("GitHub")
 tools.add("Docker")
 
+# Display the updated set
 print("Project Tools:", tools)
 
 # ------------------------------------------
