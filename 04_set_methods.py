@@ -28,3 +28,5 @@ tools = {
 
 tools.add("GitHub")
 tools.add("Docker")
+
+print("Project Tools:", tools)
