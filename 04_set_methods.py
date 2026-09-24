@@ -40,3 +40,9 @@ print("Project Tools:", tools)
 #     Add a new permission using add().
 #
 #     Print the updated set.
+
+permissions = {
+    "Camera",
+    "Storage",
+    "Internet"
+}
