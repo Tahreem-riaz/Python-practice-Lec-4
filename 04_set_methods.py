@@ -51,6 +51,7 @@ permissions = {
     "Internet"
 }
 
+# Add a new permission to the set
 permissions.add("Location")
 
 print("App Permissions:", permissions)
