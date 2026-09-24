@@ -19,3 +19,9 @@ Total Questions: 10
 #     Use add() to add two more tools.
 #
 #     Print the updated set.
+
+tools = {
+    "VS Code",
+    "Git",
+    "Python"
+}
