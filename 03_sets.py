@@ -191,3 +191,10 @@ print("Unique Cities:", cities)
 #
 #     Print the final set and explain why sets
 #     are useful for storing unique values.
+
+roles = {
+    "Admin",
+    "Teacher",
+    "Student",
+    "Guest"
+}
