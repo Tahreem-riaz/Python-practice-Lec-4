@@ -54,3 +54,11 @@ print("App Permissions:", permissions)
 # ==========================================
 # PART B: REMOVING ELEMENTS
 # ==========================================
+
+# Q3. A computer has several installed
+#     applications.
+#
+#     Create a set containing five applications.
+#     Remove one application using remove().
+#
+#     Print the updated set.
