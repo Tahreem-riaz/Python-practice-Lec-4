@@ -27,6 +27,7 @@ tools = {
     "Python"
 }
 
+# add() adds a new element to the set
 tools.add("GitHub")
 tools.add("Docker")
 
