@@ -68,3 +68,12 @@ print("App Permissions:", permissions)
 #     Remove one application using remove().
 #
 #     Print the updated set.
+
+# Create a set containing installed applications
+applications = {
+    "Chrome",
+    "VS Code",
+    "Spotify",
+    "Discord",
+    "Zoom"
+}
