@@ -44,6 +44,7 @@ print("Project Tools:", tools)
 #
 #     Print the updated set.
 
+# Create a set containing app permissions
 permissions = {
     "Camera",
     "Storage",
