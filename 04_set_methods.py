@@ -80,3 +80,9 @@ applications = {
 
 # remove() removes the specified element
 applications.remove("Spotify")
+
+# Display the updated set
+print("Installed Applications:", applications)
+
+# ------------------------------------------
+
