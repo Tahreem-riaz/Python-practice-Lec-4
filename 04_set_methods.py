@@ -50,3 +50,7 @@ permissions = {
 permissions.add("Location")
 
 print("App Permissions:", permissions)
+
+# ==========================================
+# PART B: REMOVING ELEMENTS
+# ==========================================
