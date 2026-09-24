@@ -48,3 +48,5 @@ permissions = {
 }
 
 permissions.add("Location")
+
+print("App Permissions:", permissions)
