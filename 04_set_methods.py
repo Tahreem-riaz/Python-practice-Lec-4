@@ -25,3 +25,6 @@ tools = {
     "Git",
     "Python"
 }
+
+tools.add("GitHub")
+tools.add("Docker")
