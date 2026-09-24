@@ -46,3 +46,5 @@ permissions = {
     "Storage",
     "Internet"
 }
+
+permissions.add("Location")
