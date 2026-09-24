@@ -30,3 +30,13 @@ tools.add("GitHub")
 tools.add("Docker")
 
 print("Project Tools:", tools)
+
+# ------------------------------------------
+
+# Q2. A mobile application has several
+#     permissions.
+#
+#     Create a set containing three permissions.
+#     Add a new permission using add().
+#
+#     Print the updated set.
