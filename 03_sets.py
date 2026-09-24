@@ -201,3 +201,7 @@ roles = {
 
 roles.add("Student")
 print("Allowed User Roles:", roles)
+
+# Observation:
+# Sets are useful when duplicate values are not
+# needed because each value is stored only once.
