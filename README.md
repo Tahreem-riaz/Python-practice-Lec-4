@@ -40,3 +40,19 @@ The lecture focuses on working with associative data structures and unique eleme
 | **[`03_sets.py`](./03_sets.py)**                             | Creating sets, set properties, uniqueness, and empty set initialization                             |     08     |
 | **[`04_set_methods.py`](./04_set_methods.py)**               | Set methods (`.add()`, `.remove()`, `.clear()`, `.pop()`) and set operations (Union & Intersection) |     10    |
 | **[`05_mini_project.py`](./05_mini_project.py)**             | **Student Course & Skill Manager** (Combining Dictionaries & Sets)                                  | **Mini Project** |
+
+---
+
+## 📂 Repository Structure
+
+```text
+lecture-04/
+│
+├── README.md
+│
+├── 01_dictionary_basics.py
+├── 02_dictionary_methods.py
+├── 03_sets.py
+├── 04_set_methods.py
+│
+└── 05_mini_project.py
