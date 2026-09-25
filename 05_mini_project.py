@@ -215,3 +215,7 @@ print(
     "Artificial Intelligence Skills:",
     course_details["Artificial Intelligence"]["Skills"]
 )
+
+# ==========================================
+# FINAL REPORT
+# ==========================================
