@@ -13,3 +13,9 @@ The lecture focuses on working with associative data structures and unique eleme
 - Dictionary Properties: Unordered, Mutable, No Duplicate Keys
 - Accessing & Modifying Dictionary Data
 - Working with Nested Dictionaries
+
+### 2. Dictionary Methods
+- Key & Value Extraction: `.keys()`, `.values()`, `.items()`
+- Safe Fetching: `.get()`
+- Bulk Updating & Insertion: `.update()`
+
