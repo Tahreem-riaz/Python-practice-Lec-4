@@ -98,3 +98,7 @@ print("\nUpdated Student Information:")
 
 for key, value in student.items():
     print(key, ":", value)
+
+# ==========================================
+# STEP 5: SAFE ACCESS
+# ==========================================
