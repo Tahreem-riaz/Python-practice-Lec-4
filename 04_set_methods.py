@@ -108,3 +108,6 @@ removed_task = tasks.pop()
 # Display the removed task
 print("Removed Task:", removed_task)
 
+# Display the remaining tasks
+print("Remaining Tasks:", tasks)
+
