@@ -30,3 +30,5 @@ print("=" * 60)
 # ==========================================
 # STEP 1: STUDENT INFORMATION
 # ==========================================
+
+# Create a dictionary containing student information.
