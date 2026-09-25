@@ -22,3 +22,7 @@ Concepts Used:
 - intersection()
 ========================================================
 """
+
+print("=" * 60)
+print("           STUDENT COURSE & SKILL MANAGER")
+print("=" * 60)
