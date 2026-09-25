@@ -157,3 +157,7 @@ required_skills = {
 # union() combines all unique skills
 # from both sets.
 all_skills = student_skills.union(required_skills)
+
+# intersection() finds skills that exist
+# in both sets.
+shared_skills = student_skills.intersection(required_skills)
