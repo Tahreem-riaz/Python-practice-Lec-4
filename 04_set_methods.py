@@ -234,3 +234,6 @@ event_b = {
 # intersection() finds values that exist
 # in both sets
 both_events = event_a.intersection(event_b)
+
+# Display people registered for both events
+print("Attended Both Events:", both_events)
