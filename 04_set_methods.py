@@ -293,3 +293,12 @@ student_skills = {
     "Python",
     "Git"
 }
+
+# Skills required for the project
+required_skills = {
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "SQL",
+    "Git"
+}
