@@ -111,3 +111,5 @@ print("\nStudent Name:", student_name)
 # get() returns the default message if
 # the requested key does not exist.
 phone = student.get("Phone", "Phone number not available")
+
+print("Phone:", phone)
