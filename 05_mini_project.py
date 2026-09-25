@@ -107,3 +107,7 @@ for key, value in student.items():
 student_name = student.get("Name")
 
 print("\nStudent Name:", student_name)
+
+# get() returns the default message if
+# the requested key does not exist.
+phone = student.get("Phone", "Phone number not available")
