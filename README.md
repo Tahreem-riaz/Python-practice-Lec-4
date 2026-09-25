@@ -56,6 +56,9 @@ lecture-04/
 ├── 04_set_methods.py
 │
 └── 05_mini_project.py
+```
+
+---
 
 ## 🎯 Learning Goals
 
@@ -96,3 +99,9 @@ Focus on problem-solving rather than memorizing syntax.
 - Sets and set methods such as `.add()`, `.remove()`, `.clear()`, and `.pop()`
 - Set operations such as `union()` and `intersection()`
 - Basic data processing and information display
+
+### What It Does
+
+The program manages student information, courses, instructors, and technical skills. It uses dictionaries to organize student and course data and sets to manage unique skills, compare required skills, and find shared skills.
+
+---
