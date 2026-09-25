@@ -129,3 +129,6 @@ student_skills = {
 }
 
 print("\nOriginal Student Skills:", student_skills)
+
+# add() adds a new skill to the set.
+student_skills.add("SQL")
