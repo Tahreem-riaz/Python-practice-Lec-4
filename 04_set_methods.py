@@ -200,3 +200,6 @@ data_course = {
 
 # Combine topics from both courses
 all_topics = python_course.union(data_course)
+
+# Display all unique topics
+print("All Course Topics:", all_topics)
