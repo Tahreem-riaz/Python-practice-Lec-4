@@ -137,3 +137,5 @@ print("After Adding SQL:", student_skills)
 
 # remove() removes the specified skill.
 student_skills.remove("HTML")
+
+print("After Removing HTML:", student_skills)
