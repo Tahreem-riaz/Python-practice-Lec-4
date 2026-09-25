@@ -111,3 +111,7 @@ print("Removed Task:", removed_task)
 # Display the remaining tasks
 print("Remaining Tasks:", tasks)
 
+# ==========================================
+# PART C: CLEAR
+# ==========================================
+
