@@ -172,3 +172,10 @@ print("Shared Skills:", shared_skills)
 
 # Create a nested dictionary containing
 # information about two courses.
+
+course_details = {
+    "Programming Fundamentals": {
+        "Instructor": "Waheed Javed",
+        "Credits": 3,
+        "Skills": {"C++", "Programming", "Problem Solving"}
+    }
