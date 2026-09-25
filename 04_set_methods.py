@@ -129,3 +129,6 @@ recent_searches = {
     "GitHub"
 }
 
+# Display the set before clearing
+print("Searches Before Clear:", recent_searches)
+
