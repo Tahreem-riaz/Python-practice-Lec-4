@@ -203,3 +203,7 @@ print(
     "Programming Fundamentals Skills:",
     course_details["Programming Fundamentals"]["Skills"]
 )
+print(
+    "\nArtificial Intelligence Instructor:",
+    course_details["Artificial Intelligence"]["Instructor"]
+)
