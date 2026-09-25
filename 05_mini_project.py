@@ -186,3 +186,5 @@ course_details = {
         "Skills": {"Python", "Machine Learning", "Data Analysis"}
     }
 }
+
+print("\nNested Course Information:")
