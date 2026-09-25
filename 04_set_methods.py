@@ -230,3 +230,7 @@ event_b = {
     "Ayesha",
     "Zain"
 }
+
+# intersection() finds values that exist
+# in both sets
+both_events = event_a.intersection(event_b)
