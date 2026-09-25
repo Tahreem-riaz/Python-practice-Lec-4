@@ -233,3 +233,7 @@ print("Number of Courses:", len(courses))
 
 print("Available Skills:", all_skills)
 print("Shared Skills:", shared_skills)
+
+print("=" * 60)
+print("                 END OF PROJECT")
+print("=" * 60)
