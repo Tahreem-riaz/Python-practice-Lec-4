@@ -178,4 +178,11 @@ course_details = {
         "Instructor": "Waheed Javed",
         "Credits": 3,
         "Skills": {"C++", "Programming", "Problem Solving"}
+    },
+
+    "Artificial Intelligence": {
+        "Instructor": "Sara Ahmed",
+        "Credits": 3,
+        "Skills": {"Python", "Machine Learning", "Data Analysis"}
     }
+}
