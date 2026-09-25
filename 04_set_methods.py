@@ -197,3 +197,6 @@ data_course = {
     "Dictionaries",
     "Functions"
 }
+
+# Combine topics from both courses
+all_topics = python_course.union(data_course)
