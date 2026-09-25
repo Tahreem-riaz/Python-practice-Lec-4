@@ -265,3 +265,6 @@ developer_2 = {
 
 # Find technologies common to both developers
 common_technologies = developer_1.intersection(developer_2)
+
+# Display the common technologies
+print("Common Technologies:", common_technologies)
