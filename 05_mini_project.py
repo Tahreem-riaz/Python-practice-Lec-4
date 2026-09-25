@@ -190,3 +190,8 @@ course_details = {
 print("\nNested Course Information:")
 
 # Access information from the nested dictionary.
+
+print(
+    "Programming Fundamentals Instructor:",
+    course_details["Programming Fundamentals"]["Instructor"]
+)
