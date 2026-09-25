@@ -189,3 +189,11 @@ python_course = {
     "Dictionaries",
     "Functions"
 }
+
+# Create a set of topics from the Data course
+data_course = {
+    "SQL",
+    "Databases",
+    "Dictionaries",
+    "Functions"
+}
