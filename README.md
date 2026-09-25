@@ -87,3 +87,12 @@ Focus on problem-solving rather than memorizing syntax.
 ### Student Course & Skill Manager
 
 `05_mini_project.py` brings together the concepts covered throughout Lecture 04.
+
+### Concepts Applied
+
+- Dictionaries and key-value pairs
+- Dictionary methods such as `.keys()`, `.values()`, `.items()`, `.get()`, and `.update()`
+- Nested dictionaries
+- Sets and set methods such as `.add()`, `.remove()`, `.clear()`, and `.pop()`
+- Set operations such as `union()` and `intersection()`
+- Basic data processing and information display
