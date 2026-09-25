@@ -65,3 +65,6 @@ print("\nCourse Names:")
 print(courses.keys())
 
 print("\nInstructors:")
+
+# values() returns all instructor names.
+print(courses.values())
