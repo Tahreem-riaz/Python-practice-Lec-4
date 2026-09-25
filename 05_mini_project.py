@@ -44,3 +44,13 @@ print(student)
 # ==========================================
 # STEP 2: COURSE INFORMATION
 # ==========================================
+
+# Create a dictionary containing courses
+# and their instructors.
+
+courses = {
+    "Programming Fundamentals": "Waheed Javed",
+    "Discrete Structures": "Kashif Jillani",
+    "Calculus": "Ali Raza",
+    "Artificial Intelligence": "Sara Ahmed"
+}
