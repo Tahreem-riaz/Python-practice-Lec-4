@@ -211,3 +211,7 @@ print(
     "Artificial Intelligence Credits:",
     course_details["Artificial Intelligence"]["Credits"]
 )
+print(
+    "Artificial Intelligence Skills:",
+    course_details["Artificial Intelligence"]["Skills"]
+)
