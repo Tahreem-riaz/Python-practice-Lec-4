@@ -115,3 +115,9 @@ print("Remaining Tasks:", tasks)
 # PART C: CLEAR
 # ==========================================
 
+# Q5. A user wants to clear all recently
+#     searched topics from an application.
+#
+#     Create a set containing several topics.
+#     Print it before and after using clear().
+
