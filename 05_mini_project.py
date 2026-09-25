@@ -139,3 +139,7 @@ print("After Adding SQL:", student_skills)
 student_skills.remove("HTML")
 
 print("After Removing HTML:", student_skills)
+
+# ==========================================
+# STEP 7: SKILL COMPARISON
+# ==========================================
