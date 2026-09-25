@@ -121,3 +121,11 @@ print("Remaining Tasks:", tasks)
 #     Create a set containing several topics.
 #     Print it before and after using clear().
 
+# Create a set containing recent searches
+recent_searches = {
+    "Python",
+    "C++",
+    "Machine Learning",
+    "GitHub"
+}
+
