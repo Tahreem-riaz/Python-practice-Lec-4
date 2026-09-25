@@ -195,3 +195,8 @@ print(
     "Programming Fundamentals Instructor:",
     course_details["Programming Fundamentals"]["Instructor"]
 )
+
+print(
+    "Programming Fundamentals Credits:",
+    course_details["Programming Fundamentals"]["Credits"]
+)
