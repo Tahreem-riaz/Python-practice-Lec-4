@@ -85,3 +85,11 @@ for key, value in student.items():
 # ==========================================
 # STEP 4: UPDATE INFORMATION
 # ==========================================
+
+# update() can change an existing value
+# and add a new key-value pair.
+
+student.update({
+    "Semester": 4,
+    "Email": "student@example.com"
+})
