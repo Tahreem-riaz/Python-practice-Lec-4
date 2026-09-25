@@ -143,3 +143,13 @@ print("After Removing HTML:", student_skills)
 # ==========================================
 # STEP 7: SKILL COMPARISON
 # ==========================================
+
+# Create a set containing skills required
+# for a particular project.
+
+required_skills = {
+    "Python",
+    "SQL",
+    "JavaScript",
+    "Git"
+}
