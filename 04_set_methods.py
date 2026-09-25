@@ -272,3 +272,16 @@ print("Common Technologies:", common_technologies)
 # ==========================================
 # PART F: CHALLENGE
 # ==========================================
+
+# Q10. A student has completed some skills
+#      for a web development project.
+#
+#      The project requires another set of
+#      skills.
+#
+#      Perform:
+#      - Union to find all available skills
+#      - Intersection to find skills the student
+#        already has that are also required
+#
+#      Print both results.
