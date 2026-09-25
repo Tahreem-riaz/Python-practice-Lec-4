@@ -188,3 +188,5 @@ course_details = {
 }
 
 print("\nNested Course Information:")
+
+# Access information from the nested dictionary.
