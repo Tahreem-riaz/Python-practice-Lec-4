@@ -105,3 +105,6 @@ tasks = {
 # pop() removes and returns an element from the set
 removed_task = tasks.pop()
 
+# Display the removed task
+print("Removed Task:", removed_task)
+
