@@ -19,3 +19,7 @@ The lecture focuses on working with associative data structures and unique eleme
 - Safe Fetching: `.get()`
 - Bulk Updating & Insertion: `.update()`
 
+### 3. Sets
+- Introduction to Sets & Set Properties (Unordered, Unique Values, Mutable with Immutable Elements)
+- Creating Empty Sets (`set()`) vs. Empty Dictionaries (`{}`)
+- Unique Element Enforcement & Automatic Deduplication
