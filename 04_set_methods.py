@@ -86,3 +86,11 @@ print("Installed Applications:", applications)
 
 # ------------------------------------------
 
+# Q4. A queue contains several task IDs.
+#
+#     Use pop() to remove one task.
+#
+#     Print:
+#     - The removed task
+#     - The remaining tasks
+
