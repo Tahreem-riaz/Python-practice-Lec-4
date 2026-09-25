@@ -237,3 +237,12 @@ both_events = event_a.intersection(event_b)
 
 # Display people registered for both events
 print("Attended Both Events:", both_events)
+
+# ------------------------------------------
+
+# Q9. A developer knows several technologies.
+#     Another developer also knows several
+#     technologies.
+#
+#     Find the technologies they both know
+#     using intersection().
