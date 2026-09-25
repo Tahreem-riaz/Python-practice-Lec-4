@@ -169,3 +169,6 @@ print("Shared Skills:", shared_skills)
 # ==========================================
 # STEP 8: NESTED DICTIONARY
 # ==========================================
+
+# Create a nested dictionary containing
+# information about two courses.
