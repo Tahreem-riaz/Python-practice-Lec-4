@@ -38,3 +38,5 @@ student = {
     "Semester": 3,
     "Department": "Artificial Intelligence"
 }
+print("\nStudent Information:")
+print(student)
