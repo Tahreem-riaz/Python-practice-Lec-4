@@ -246,3 +246,11 @@ print("Attended Both Events:", both_events)
 #
 #     Find the technologies they both know
 #     using intersection().
+
+# Technologies known by Developer 1
+developer_1 = {
+    "Python",
+    "Git",
+    "SQL",
+    "HTML"
+}
