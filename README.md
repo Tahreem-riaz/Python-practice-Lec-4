@@ -56,3 +56,22 @@ lecture-04/
 ├── 04_set_methods.py
 │
 └── 05_mini_project.py
+
+🎯 Learning Goals
+Creating and manipulating Python dictionaries
+
+Working with key-value pairs and safe data retrieval using .get()
+
+Updating and modifying dictionary data dynamically
+
+Constructing and accessing nested dictionaries
+
+Utilizing common dictionary methods (.keys(), .values(), .items(), .update())
+
+Creating sets and understanding unique value enforcement
+
+Differentiating empty set set() from empty dictionary {}
+
+Performing set operations such as Union and Intersection
+
+Combining dictionaries and sets to solve practical real-life problems
