@@ -94,3 +94,11 @@ print("Installed Applications:", applications)
 #     - The removed task
 #     - The remaining tasks
 
+# Create a set containing task IDs
+tasks = {
+    "Task-101",
+    "Task-102",
+    "Task-103",
+    "Task-104"
+}
+
