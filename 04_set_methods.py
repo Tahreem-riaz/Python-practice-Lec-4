@@ -214,3 +214,11 @@ print("All Course Topics:", all_topics)
 #
 #     Use intersection() to find people who
 #     registered for both events.
+
+# Create a set of attendees for Event A
+event_a = {
+    "Ali",
+    "Sara",
+    "Ahmed",
+    "Hassan"
+}
