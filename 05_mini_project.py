@@ -166,9 +166,7 @@ print("\nRequired Project Skills:", required_skills)
 print("All Available Skills:", all_skills)
 print("Shared Skills:", shared_skills)
 
-# ==========================================
-# STEP 8: NESTED DICTIONARY
-# ==========================================
+
 
 # Create a nested dictionary containing
 # information about two courses.
