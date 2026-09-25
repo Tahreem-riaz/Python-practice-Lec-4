@@ -309,3 +309,6 @@ all_skills = student_skills.union(required_skills)
 # intersection() finds skills that are
 # present in both sets
 matching_skills = student_skills.intersection(required_skills)
+
+# Display all available skills
+print("All Skills:", all_skills)
