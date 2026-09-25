@@ -7,3 +7,9 @@ The lecture focuses on working with associative data structures and unique eleme
 ---
 
 ## 🎨 Topics Covered
+
+### 1. Dictionaries
+- Creating Dictionaries & Key-Value Pair Concept
+- Dictionary Properties: Unordered, Mutable, No Duplicate Keys
+- Accessing & Modifying Dictionary Data
+- Working with Nested Dictionaries
