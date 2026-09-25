@@ -142,3 +142,12 @@ print("Searches After Clear:", recent_searches)
 # PART D: UNION
 # ==========================================
 
+# Q6. Two teams are working on a software
+#     project.
+#
+#     Create two sets containing the skills
+#     of each team.
+#
+#     Use union() to find all skills available
+#     across both teams.
+
