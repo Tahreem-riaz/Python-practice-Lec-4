@@ -254,3 +254,11 @@ developer_1 = {
     "SQL",
     "HTML"
 }
+
+# Technologies known by Developer 2
+developer_2 = {
+    "Python",
+    "Java",
+    "Git",
+    "C++"
+}
