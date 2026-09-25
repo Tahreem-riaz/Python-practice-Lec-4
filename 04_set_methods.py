@@ -312,3 +312,7 @@ matching_skills = student_skills.intersection(required_skills)
 
 # Display all available skills
 print("All Skills:", all_skills)
+
+# Display skills the student already has
+# that are required by the project
+print("Skills Already Known:", matching_skills)
