@@ -26,3 +26,7 @@ Concepts Used:
 print("=" * 60)
 print("           STUDENT COURSE & SKILL MANAGER")
 print("=" * 60)
+
+# ==========================================
+# STEP 1: STUDENT INFORMATION
+# ==========================================
