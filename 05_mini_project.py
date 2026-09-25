@@ -230,3 +230,6 @@ print("Department:", student.get("Department"))
 
 # len() counts the number of courses.
 print("Number of Courses:", len(courses))
+
+print("Available Skills:", all_skills)
+print("Shared Skills:", shared_skills)
