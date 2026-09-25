@@ -169,3 +169,8 @@ team_b_skills = {
 # Duplicate values are included only once
 all_skills = team_a_skills.union(team_b_skills)
 
+# Display all available skills
+print("All Team Skills:", all_skills)
+
+# ------------------------------------------
+
