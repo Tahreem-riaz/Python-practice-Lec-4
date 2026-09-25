@@ -222,3 +222,11 @@ event_a = {
     "Ahmed",
     "Hassan"
 }
+
+# Create a set of attendees for Event B
+event_b = {
+    "Sara",
+    "Hassan",
+    "Ayesha",
+    "Zain"
+}
