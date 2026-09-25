@@ -80,3 +80,8 @@ print("\nComplete Student Information:")
 # Display each student key and value.
 for key, value in student.items():
     print(key, ":", value)
+
+
+# ==========================================
+# STEP 4: UPDATE INFORMATION
+# ==========================================
