@@ -93,3 +93,5 @@ student.update({
     "Semester": 4,
     "Email": "student@example.com"
 })
+
+print("\nUpdated Student Information:")
