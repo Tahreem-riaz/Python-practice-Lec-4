@@ -69,3 +69,15 @@ lecture-04/
 - Set methods (`.add()`, `.remove()`, `.pop()`, `.clear()`)
 - Set operations (Union and Intersection)
 - Combining dictionaries and sets to solve practical problems
+
+## 🧠 Practice Approach
+
+Focus on problem-solving rather than memorizing syntax.
+
+1. Understand the data structures and identify the problem requirements.
+2. Attempt each problem independently before checking the solution.
+3. Run and test the scripts in your terminal to verify the output.
+4. Experiment by modifying values, changing data, and testing different operations.
+5. Debug errors and observe how Python executes the code.
+
+---
