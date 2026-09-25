@@ -60,3 +60,6 @@ courses = {
 # ==========================================
 
 print("\nCourse Names:")
+
+# keys() returns all course names.
+print(courses.keys())
