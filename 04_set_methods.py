@@ -174,3 +174,18 @@ print("All Team Skills:", all_skills)
 
 # ------------------------------------------
 
+# Q7. An online platform offers two different
+#     courses.
+#
+#     Create a set of topics from each course.
+#
+#     Use union() to create a set containing
+#     all topics available in both courses.
+
+# Create a set of topics from the Python course
+python_course = {
+    "Variables",
+    "Lists",
+    "Dictionaries",
+    "Functions"
+}
