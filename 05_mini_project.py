@@ -223,3 +223,7 @@ print(
 print("\n" + "=" * 60)
 print("                    FINAL REPORT")
 print("=" * 60)
+
+# get() is used to safely access student information.
+print("Student Name:", student.get("Name"))
+print("Department:", student.get("Department"))
