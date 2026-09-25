@@ -127,3 +127,5 @@ student_skills = {
     "HTML",
     "Git"
 }
+
+print("\nOriginal Student Skills:", student_skills)
