@@ -23,3 +23,8 @@ The lecture focuses on working with associative data structures and unique eleme
 - Introduction to Sets & Set Properties (Unordered, Unique Values, Mutable with Immutable Elements)
 - Creating Empty Sets (`set()`) vs. Empty Dictionaries (`{}`)
 - Unique Element Enforcement & Automatic Deduplication
+
+### 4. Set Methods & Operations
+- Modifying Sets: `.add()`, `.remove()`, `.discard()`, `.pop()`, `.clear()`
+- Set Operations: Union (`.union()` or `|`)
+- Set Operations: Intersection (`.intersection()` or `&`)
