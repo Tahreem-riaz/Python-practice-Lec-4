@@ -153,3 +153,7 @@ required_skills = {
     "JavaScript",
     "Git"
 }
+
+# union() combines all unique skills
+# from both sets.
+all_skills = student_skills.union(required_skills)
