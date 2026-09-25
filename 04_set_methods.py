@@ -207,3 +207,10 @@ print("All Course Topics:", all_topics)
 # ==========================================
 # PART E: INTERSECTION
 # ==========================================
+
+# Q8. Two events have registered attendees.
+#
+#     Create two sets containing attendee names.
+#
+#     Use intersection() to find people who
+#     registered for both events.
