@@ -262,3 +262,6 @@ developer_2 = {
     "Git",
     "C++"
 }
+
+# Find technologies common to both developers
+common_technologies = developer_1.intersection(developer_2)
