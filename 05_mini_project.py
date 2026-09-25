@@ -105,3 +105,5 @@ for key, value in student.items():
 
 # get() safely accesses an existing key.
 student_name = student.get("Name")
+
+print("\nStudent Name:", student_name)
