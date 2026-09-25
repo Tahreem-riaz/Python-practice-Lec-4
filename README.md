@@ -33,12 +33,10 @@ The lecture focuses on working with associative data structures and unique eleme
 
 ## 📁 Practice Files
 
-| File | Topics | Questions |
-| :--- | :--- | :---: |
-| **`01_dictionary_basics.py`** | Dictionary creation, properties, accessing, modifying, and nested dictionaries | Practice |
-| **`02_dictionary_methods.py`** | Common dictionary methods (`.keys()`, `.values()`, `.items()`, `.get()`, `.update()`) | Practice |
-| **`03_sets.py`** | Creating sets, set properties, uniqueness, and empty set initialization | Practice |
-| **`04_set_methods.py`** | Set methods (`.add()`, `.remove()`, `.clear()`, `.pop()`) and set operations (Union & Intersection) | Practice |
-| **`05_mini_project.py`** | **Student Course & Skill Manager** (Combining Dictionaries & Sets) | **Mini Project** |
-
----
+| File                                                         | Topics                                                                                              |       Type       |
+| :----------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :--------------: |
+| **[`01_dictionary_basics.py`](./01_dictionary_basics.py)**   | Dictionary creation, properties, accessing, modifying, and nested dictionaries                      |     10    |
+| **[`02_dictionary_methods.py`](./02_dictionary_methods.py)** | Common dictionary methods (`.keys()`, `.values()`, `.items()`, `.get()`, `.update()`)               |     10     |
+| **[`03_sets.py`](./03_sets.py)**                             | Creating sets, set properties, uniqueness, and empty set initialization                             |     08     |
+| **[`04_set_methods.py`](./04_set_methods.py)**               | Set methods (`.add()`, `.remove()`, `.clear()`, `.pop()`) and set operations (Union & Intersection) |     10    |
+| **[`05_mini_project.py`](./05_mini_project.py)**             | **Student Course & Skill Manager** (Combining Dictionaries & Sets)                                  | **Mini Project** |
