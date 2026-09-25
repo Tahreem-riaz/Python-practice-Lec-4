@@ -113,3 +113,7 @@ print("\nStudent Name:", student_name)
 phone = student.get("Phone", "Phone number not available")
 
 print("Phone:", phone)
+
+# ==========================================
+# STEP 6: STUDENT SKILLS
+# ==========================================
