@@ -285,3 +285,11 @@ print("Common Technologies:", common_technologies)
 #        already has that are also required
 #
 #      Print both results.
+
+# Skills the student already knows
+student_skills = {
+    "HTML",
+    "CSS",
+    "Python",
+    "Git"
+}
