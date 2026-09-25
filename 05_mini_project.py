@@ -54,3 +54,7 @@ courses = {
     "Calculus": "Ali Raza",
     "Artificial Intelligence": "Sara Ahmed"
 }
+
+# ==========================================
+# STEP 3: DISPLAY INFORMATION
+# ==========================================
