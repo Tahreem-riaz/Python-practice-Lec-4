@@ -32,3 +32,9 @@ print("=" * 60)
 # ==========================================
 
 # Create a dictionary containing student information.
+student = {
+    "Name": "Tahreem",
+    "Student ID": "BSAI-005",
+    "Semester": 3,
+    "Department": "Artificial Intelligence"
+}
