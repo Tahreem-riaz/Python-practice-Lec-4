@@ -102,3 +102,6 @@ tasks = {
     "Task-104"
 }
 
+# pop() removes and returns an element from the set
+removed_task = tasks.pop()
+
