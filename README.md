@@ -75,3 +75,15 @@ Differentiating empty set set() from empty dictionary {}
 Performing set operations such as Union and Intersection
 
 Combining dictionaries and sets to solve practical real-life problems
+
+📈 Learning Progress
+Lecture	Topic	Status
+Lecture 01	Python Fundamentals	✅ Completed
+Lecture 02	Strings & Conditional Statements	✅ Completed
+Lecture 03	Lists & Tuples	✅ Completed
+Lecture 04	Dictionaries & Sets	✅ Completed
+Lecture 05	Pending	⏳
+Lecture 06	Pending	⏳
+Lecture 07	Pending	⏳
+Lecture 08	Pending	⏳
+Lecture 09	Pending	⏳
