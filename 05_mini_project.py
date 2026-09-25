@@ -70,3 +70,7 @@ print("\nInstructors:")
 print(courses.values())
 
 print("\nCourse and Instructor Pairs:")
+
+# items() returns both keys and values together.
+for course, instructor in courses.items():
+    print(course, "->", instructor)
