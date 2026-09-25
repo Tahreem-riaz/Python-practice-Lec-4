@@ -165,3 +165,7 @@ team_b_skills = {
     "Git"
 }
 
+# union() combines elements from both sets
+# Duplicate values are included only once
+all_skills = team_a_skills.union(team_b_skills)
+
