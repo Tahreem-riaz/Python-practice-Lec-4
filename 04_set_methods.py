@@ -158,3 +158,10 @@ team_a_skills = {
     "SQL"
 }
 
+# Create a set containing Team B skills
+team_b_skills = {
+    "JavaScript",
+    "Docker",
+    "Git"
+}
+
