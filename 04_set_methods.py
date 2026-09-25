@@ -138,3 +138,7 @@ recent_searches.clear()
 # Display the empty set after clearing
 print("Searches After Clear:", recent_searches)
 
+# ==========================================
+# PART D: UNION
+# ==========================================
+
