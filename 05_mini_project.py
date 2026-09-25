@@ -102,3 +102,6 @@ for key, value in student.items():
 # ==========================================
 # STEP 5: SAFE ACCESS
 # ==========================================
+
+# get() safely accesses an existing key.
+student_name = student.get("Name")
