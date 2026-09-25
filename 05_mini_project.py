@@ -40,3 +40,7 @@ student = {
 }
 print("\nStudent Information:")
 print(student)
+
+# ==========================================
+# STEP 2: COURSE INFORMATION
+# ==========================================
