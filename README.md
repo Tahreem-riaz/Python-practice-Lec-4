@@ -33,7 +33,7 @@ The lecture focuses on working with associative data structures and unique eleme
 
 ## 📁 Practice Files
 
-| File                                                         | Topics                                                                                              |       Type       |
+| File                                                         | Topics                                                                                              |       Questions      |
 | :----------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :--------------: |
 | **[`01_dictionary_basics.py`](./01_dictionary_basics.py)**   | Dictionary creation, properties, accessing, modifying, and nested dictionaries                      |     10    |
 | **[`02_dictionary_methods.py`](./02_dictionary_methods.py)** | Common dictionary methods (`.keys()`, `.values()`, `.items()`, `.get()`, `.update()`)               |     10     |
