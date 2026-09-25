@@ -117,3 +117,13 @@ print("Phone:", phone)
 # ==========================================
 # STEP 6: STUDENT SKILLS
 # ==========================================
+
+# Create a set containing the student's
+# programming and technical skills.
+
+student_skills = {
+    "Python",
+    "C++",
+    "HTML",
+    "Git"
+}
