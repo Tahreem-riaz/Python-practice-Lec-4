@@ -165,3 +165,7 @@ shared_skills = student_skills.intersection(required_skills)
 print("\nRequired Project Skills:", required_skills)
 print("All Available Skills:", all_skills)
 print("Shared Skills:", shared_skills)
+
+# ==========================================
+# STEP 8: NESTED DICTIONARY
+# ==========================================
