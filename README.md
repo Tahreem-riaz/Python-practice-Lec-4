@@ -81,3 +81,9 @@ Focus on problem-solving rather than memorizing syntax.
 5. Debug errors and observe how Python executes the code.
 
 ---
+
+## 🚀 Mini Project
+
+### Student Course & Skill Manager
+
+`05_mini_project.py` brings together the concepts covered throughout Lecture 04.
