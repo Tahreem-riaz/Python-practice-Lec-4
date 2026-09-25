@@ -132,3 +132,6 @@ recent_searches = {
 # Display the set before clearing
 print("Searches Before Clear:", recent_searches)
 
+# clear() removes all elements from the set
+recent_searches.clear()
+
