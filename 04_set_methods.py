@@ -151,3 +151,10 @@ print("Searches After Clear:", recent_searches)
 #     Use union() to find all skills available
 #     across both teams.
 
+# Create a set containing Team A skills
+team_a_skills = {
+    "Python",
+    "Git",
+    "SQL"
+}
+
